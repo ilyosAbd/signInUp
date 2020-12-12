@@ -1,0 +1,24 @@
+body {
+    background-color: #e0ebeb;
+}
+
+.card {
+    
+    box-shadow: 10px 10px 5px grey;
+    background-image: linear-gradient(to right,#75a3a3 , #8a7a99);
+}
+
+.text {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.Button {
+    background-color: #53c68c;
+    color: white;
+    background-image: linear-gradient(to right, #53c68c , #51989b);
+}
+
+.welcomeBody {
+    background-color: #e0ebeb;
+}
