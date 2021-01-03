@@ -78,7 +78,7 @@ function sanitize($data) {
                     <div class="d-grid gap-2 col-6 mx-auto">
                         <button type="submit" class="btn Button" name="login">Sign in</button>
                     </div>  
-                    <div class="card-footer">
+                    <div class="card-footer text">
 						          	<p>Don't have an account? <a href="register.php" class="link-primary">Sign up</a></p>
 						          </div>       
 	        </div>

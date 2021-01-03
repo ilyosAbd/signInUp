@@ -1,16 +1,14 @@
 body {
-    background-color: #e0ebeb;
+    background-color: #47d1d1;
 }
 
 .card {
-    
-    box-shadow: 10px 10px 5px grey;
-    background-image: linear-gradient(to right,#75a3a3 , #8a7a99);
+    color: white;
 }
 
 .text {
-    color: white;
-    text-shadow: 2px 2px 4px #000000;
+    color: rgb(0, 0, 0);
+   
 }
 
 .Button {
@@ -20,5 +18,5 @@ body {
 }
 
 .welcomeBody {
-    background-color: #e0ebeb;
+    background-color:  #47d1d1;
 }

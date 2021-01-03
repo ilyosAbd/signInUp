@@ -144,7 +144,7 @@ function sanitize($data) {
 								</div>
 							</form>
 						</div>
-						<div class="card-footer">
+						<div class="card-footer text">
 							<p>Have an account? <a href="signIn.php" class="link-primary">Sing in</a></p>
 						</div>
 					</div>
